@@ -1,1 +1,1 @@
-# spring_board(게시판 JS.grid 버전)
+# spring_board(게시판 Toast.Ui.grid 버전)
